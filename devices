@@ -1,0 +1,5 @@
+# Name of all devices
+ethernet="enp3s0"
+wifi="wlp2s0"
+bluetooth="hci0"
+hdmi="HDMI-1"
