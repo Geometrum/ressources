@@ -5,5 +5,4 @@ brightness_path="/sys/class/backlight/intel_backlight/brightness"
 more_brightness="sudo ~/scripts/backlight.sh +"
 less_brightness="sudo ~/scripts/backlight.sh -"
 
-usb_mount_path="/run/media/${USER}/usb_"
 dev_path="/dev"
