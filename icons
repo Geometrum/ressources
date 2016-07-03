@@ -26,3 +26,6 @@ volume_muted_icon=""
 volume_low_icon=""
 volume_normal_icon=""
 volume_high_icon=""
+headphones_icon=""
+
+usb_icon=""
