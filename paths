@@ -1,8 +1,9 @@
 # Different paths
 
-max_brightness_path="/sys/class/backlight/intel_backlight/max_brightness"
-brightness_path="/sys/class/backlight/intel_backlight/brightness"
-more_brightness="sudo ~/scripts/backlight.sh +"
-less_brightness="sudo ~/scripts/backlight.sh -"
+max_brightness_path='/sys/class/backlight/intel_backlight/max_brightness'
+brightness_path='/sys/class/backlight/intel_backlight/brightness'
+more_brightness='sudo ~/scripts/backlight.sh +'
+less_brightness='sudo ~/scripts/backlight.sh -'
 
-dev_path="/dev"
+dev_path='/dev'
+battery_path='/sys/class/power_supply/BAT0'
